@@ -1,0 +1,48 @@
+
+h1{
+    color: #66bfbf;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+}
+.top{
+    background-color: #7FC7D9;
+    color: #DCF2F1;
+    font-family: "Josefin Sans", cursive;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+
+.profile-img{
+    height: 250px;
+    border-radius: 50%;
+}
+
+.skills{
+    background-color: #66bfbf;
+}
+
+.icone{
+    font-size: 50px;
+}
+footer{
+    background-color: #66bfbf;
+}
+
+
+[data-bs-theme="dark"] .profile{
+    background-color: #0F1035;
+}
+
+[data-bs-theme="dark"] footer{
+    background-color: #365486;
+}
+
+[data-bs-theme="dark"] .top{
+    background-color: #365486;
+    color: #FFF;
+    font-family: "Josefin Sans", cursive;
+    font-weight: 400;
+    font-style: normal;
+    
+}
